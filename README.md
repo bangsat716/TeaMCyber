@@ -1,8 +1,7 @@
 # TeaMCyber
 
-http://wx.light2meet.com/uploadfiles/file/20200414/20200414004711_24460.html
+set url
 
-http://wx.light2meet.com/third_party/kindeditor/examples/uploadbutton.html
+set action_url
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pF-3S-HTJSg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+run
