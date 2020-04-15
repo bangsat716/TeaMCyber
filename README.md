@@ -1,7 +1,4 @@
 # TeaMCyber
 
-set url
 
-set action_url
-
-run
+http://localhost:8080
