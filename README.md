@@ -1,3 +1,6 @@
 # TeaMCyber
 
-http://localhost:8080
+
+set url https://www.codashop.com/id/
+set action_url https://www.codashop.com/id
+run
